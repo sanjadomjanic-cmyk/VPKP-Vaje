@@ -77,6 +77,7 @@ The data-breach results show that my email addresses have been exposed multiple 
 The images found via PimEyes could be misused to create fake profiles, impersonate me,  or track my online presence without my consent.
 
 - Write a worst-case scenario example of how someone could benefit from this data in the event of personal exposure.
+  
 A malicious actor could combine my leaked email data with publicly available information about my workplace and personal life to craft a convincing spear-phishing attack. Using my exposed photos, they could create a fake social-media profile that appears authentic. They might impersonate me to contact my colleagues or friends, asking for sensitive information or financial transfers. With access to my breached email credentials, they could even gain entry to my real accounts, further strengthening the impersonation. This could lead to identity theft, financial loss, and reputational damage.
  
 - How would you rate your personal security/privacy?
