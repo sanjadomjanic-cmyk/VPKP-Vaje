@@ -67,9 +67,21 @@ Google Dorking is not illegal as long as we do not interfere with protected syst
 ## 3️⃣ Reflection and analysis
 
 - Write a short report on what data you found.
+  
+In my browser's private mode, I found informations about my thesis, my workplace and deatails about my dog. On facebook, I found one user with the same name as mine. With exposure-checking tools, I discoverd that one of my email accounts had been involved in 1-2 data breaches, and the second one appeared in 9-13, depending of the tool used. 
+With PimEyes, I found photo of me on my workplace's website of and another photo of me on a website that was unfamiliar to me. 
+  
 - What potential risk does it pose?
+  
+The data-breach results show that my email addresses have been exposed multiple times, which increases the risk of password leaks, unauthorized logins, identity theft, and spam.
+The images found via PimEyes could be misused to create fake profiles, impersonate me,  or track my online presence without my consent.
+
 - Write a worst-case scenario example of how someone could benefit from this data in the event of personal exposure.
+A malicious actor could combine my leaked email data with publicly available information about my workplace and personal life to craft a convincing spear-phishing attack. Using my exposed photos, they could create a fake social-media profile that appears authentic. They might impersonate me to contact my colleagues or friends, asking for sensitive information or financial transfers. With access to my breached email credentials, they could even gain entry to my real accounts, further strengthening the impersonation. This could lead to identity theft, financial loss, and reputational damage.
+ 
 - How would you rate your personal security/privacy?
+
+I would rate my current personal security and privacy as moderate, as my accounts and identity could still be vulnerable unless I strengthen my security habits, such as improving password security practices, enabling two-factor authentication, and limiting the amount of personal information I share online.
 
 ## References
 
