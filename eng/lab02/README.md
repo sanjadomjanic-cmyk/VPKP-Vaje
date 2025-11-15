@@ -99,7 +99,8 @@ Maigret returned approximately three times more results than Sherlock. It also p
 
 - Did you find any sensitive information (e.g. email address, private pictures, phone number)? How could the person protect it from being publicly available?
 
-For my selected public figure, I didn’t find any sensitive information. However, for the fictitious person (Anna Smith), I found her email address, private pictures, her place of residence, her TikTok account, her Tinder account, etc. The person can protect their privacy by using different usernames that are not connected to their real name, avoiding sharing personal details publicly, and deleting old or unused profiles. 
+For my selected public figure, I didn’t find any sensitive information. However, for the fictitious person (Anna Smith), I found her email address, private pictures, her place of residence, her TikTok account, her Tinder account, etc. 
+The person can protect their privacy by using different usernames that are not connected to their real name, avoiding sharing personal details publicly, and deleting old or unused profiles. 
 
 ## 3️⃣ Reflection and Analysis
 
