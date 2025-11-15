@@ -74,18 +74,41 @@ First, let's select a photo:
 Answer the following questions:
 
 1. What was the exact location (coordinates and address)?
-2. When was the image taken?
-3. What other metadata did you notice?
-4. What surprised you?
-5. What would you recommend to someone who regularly posts images online?
+
+The coordinates are 38° 55' 34.35" N, 94° 37' 21.40" W, and the address is Tomahawk Creek Trail, Leawood, Johnson County, Kansas, 66211, United States.
+
+3. When was the image taken?
+
+The image was taken on 2021-04-24 at 14:52:29 (GMT -05:00). 
+   
+5. What other metadata did you notice?
+
+   There are camera information, file information, date and time, GPS information, and location information.
+
+7. What surprised you?
+
+I was surprised by how much information you can find in just one picture.
+
+9. What would you recommend to someone who regularly posts images online?
+
+I would recommend disabling the GPS function when taking pictures and checking the metadata before posting images online.
+    
 
 ---
 
 ## 💬 Reflection
 
 - Should everyone remove EXIF ​​data before posting an image?
+
+It depends on who is posting the image and for what purpose. For example, if you want to prove that a picture was taken in a specific place, such as a park, then it is okay to keep the EXIF data, including GPS coordinates. However, for private or personal photos it is recommended to remove this information before posting them publicly.
+  
 - How can we protect ourselves from the misuse of such information?
+
+The best protection is not to publish personal pictures or other sensitive information online, or to share them only with trusted people. We can also protect ourselves by removing EXIF data before posting, disabling GPS on our devices, using strong privacy settings on social media.
+
 - Have you ever posted an image that contained such metadata? What would your reaction be today?
+
+I am convinced that I still have some old pictures online that contain such metadata, because back then I didn’t know much about personal cybersecurity. Today I am much more careful about what kind of data I upload or share online.
 
 ---
 
