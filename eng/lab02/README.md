@@ -84,18 +84,37 @@ maigret <username>
 🔷 Comparing tools
 Use both programs for the same username and compare the results: which tool found more profiles? Which gives more transparent data?
 
+Maigret found many more profiles than Sherlock and provided more transparent data.
+
 Think about it: were there profiles found on social networks where you didn't expect them?
+
+The profiles were found on very different social networks where I didn’t expect them, and many of them were platforms I had never heard of before.
+
 
 ### 📝 Analysis and Report
 
 - Compare the results of Sherlock and Maigret. What differences did you notice?
+
+Maigret returned approximately three times more results than Sherlock. It also provided much more detailed information about the username. However, Maigret’s search time was noticeably longer than Sherlock’s.
+
 - Did you find any sensitive information (e.g. email address, private pictures, phone number)? How could the person protect it from being publicly available?
+
+For my selected public figure, I didn’t find any sensitive information. However, for the fictitious person (Anna Smith), I found her email address, private pictures, her place of residence, her TikTok account, her Tinder account, etc. The person can protect their privacy by using different usernames that are not connected to their real name, avoiding sharing personal details publicly, and deleting old or unused profiles. 
 
 ## 3️⃣ Reflection and Analysis
 
 - What information was the easiest to find? What was the hardest to find?
+
+There are many social platforms, gaming platforms, forums, and other publicly accessible sites connected with usernames. However, it is much harder to find sensitive personal information, because these details are usually protected or not publicly visible.
+  
 - How would you adjust your own online behavior after doing this exercise?
+
+I will use different usernames on different platforms that are not connected to my real name. I will also regularly check what kind of information can be found about me online and delete anything I consider unsuitable.
+  
 - Do you think the use of OSINT tools is ethically questionable? In which cases is it justified?
+  
+The use of OSINT tools can be ethically questionable, especially if they are used to collect information about people without their consent. However, OSINT is justified when it is used for legitimate purposes, such as checking what information is publicly available about yourself, monitoring whether your identity has been stolen, or improving your online privacy. It is also ethical when used for professional reasons, for example in cybersecurity, journalism, or law enforcement, as long as the information is taken only from publicly accessible sources and not misused.
+  
 
 ## References
 
