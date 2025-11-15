@@ -86,7 +86,7 @@ Use both programs for the same username and compare the results: which tool foun
 
 Maigret found many more profiles than Sherlock and provided more transparent data.
 
-Think about it: were there profiles found on social networks where you didn't expect them?
+- Think about it: were there profiles found on social networks where you didn't expect them?
 
 The profiles were found on very different social networks where I didn’t expect them, and many of them were platforms I had never heard of before.
 
