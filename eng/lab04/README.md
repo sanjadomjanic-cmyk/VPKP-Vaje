@@ -140,18 +140,40 @@ Examples of suspicious signs:
 
 Write a short report:
 - What is the actual IP of the sender?
+
+ The actual sender IP shows where the email really came from. It helps us check if the message matches the claimed sender and whether it was sent through a legitimate mail server. If the IP points to an unexpected country, unknown server, or a blacklisted source, it may indicate phishing or spoofing.
+ 
 - Does the sender domain match the “From” address?
+
+You can check if the domain matches by comparing the visible “From” address with the actual sending domain found in the email header. If they are not the same, then they do not match and that can indicate spoofing.
+  
 - What country does the message roughly originate from?
+
+  The message roughly originates from the country identified by the sender’s IP address (based on IP geolocation lookup).
+
 - Are there any signs of redirection through multiple servers in the header?
+
+If the header shows several Received: lines from different servers, especially ones unrelated to the claimed sender, then yes — that indicates redirection through multiple servers, which can be suspicious.
+  
 - Are there SPF/DKIM/DMARC errors?
+
+  If the header shows “fail,” “softfail,” “none,” or missing SPF, DKIM, or DMARC records, then yes — there are authentication errors, which is a sign the email may not be legitimate.
 
 In your email client, try to find a message in the SPAM folder that you suspect could be a phishing message and analyze it. Write down the results.
 
 ## 4️⃣ Reflection and analysis
 
 - How quickly do you notice the suspiciousness of a phishing message?
+
+  I can usually notice the suspiciousness quite quickly because I have years of experience and can recognize common warning signs right away.
+  
 - Would you recognize this message as dangerous without the header?
+
+ Yes, I might recognize it as dangerous even without the header if the content, tone, or links look suspicious, but the header provides technical proof and makes the analysis more reliable.
+
 - What advice would you give to someone who is new to email regarding the dangers lurking in terms of social engineering?
+
+I would advise them to always be cautious with unexpected emails, never click on unknown links or attachments, verify the sender before responding, and be aware that attackers use psychological tricks like urgency, threats, or rewards to manipulate people. When in doubt, ask someone experienced or contact the organization directly through official channels
 
 
 
