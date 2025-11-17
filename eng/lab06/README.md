@@ -58,12 +58,32 @@ For each password, write down:
 - What settings you chose.
 - Is the password safe to use and what would you change to make it even more secure?
 
+  Password: Computer, length: 8 characters, character set: only letters (lowercase and uppercase), password strength: very weak, estimated time to crack : less than a second.
+  Password: 12Computer34, length: 12 characters, character set: letters + numbers, password strength: weak, estimated time to crack : 3 hours.
+  Password: 12Computer34!!!!, length: 16 characters, character set: letters + numbers + special characters, password strength: good, estimated time to crack : 1 month.
+  Password: !!!!12.Com+Put+Er.34!!!!, length: 24 characters, character set: anything, password strength: strong, estimated time to crack : centuries.
+  Password: My-computer-is-great, character set: 4 words,  password strength: good, estimated time to crack : 8 years.
+
+The password becomes safer with every additional character and by adding numbers and special characters.
+
 ## 3️⃣ Reflection and analysis
 
 - How does the security score increase as you add length?
+
+Password security increases exponentially as length grows. With every extra character multiplies the number of possible combinations, making the password dramatically harder to crack.
+  
 - How do special characters affect the score?
+
+  Special characters increase the password score by adding more possible character choices and making the password harder to guess through brute force or pattern-based attacks.
+  
 - How does a “passphrase” score compare to a classic password?
+
+A passphrase usually scores higher than a traditional password because it is typically longer, even if it contains mostly normal letters. The length provides exponential security, making it harder to crack through brute-force attacks
+
 - Which password would you recommend for everyday use and why?
+  
+I would recommend using a passphrase because it is generally more secure than classic passwords and easier to remember.
+
 
 ## References
 
