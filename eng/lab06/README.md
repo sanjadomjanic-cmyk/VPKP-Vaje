@@ -59,11 +59,15 @@ For each password, write down:
 - Is the password safe to use and what would you change to make it even more secure?
 
   Password: Computer, length: 8 characters, character set: only letters (lowercase and uppercase), password strength: very weak, estimated time to crack : less than a second.
+  
   Password: 12Computer34, length: 12 characters, character set: letters + numbers, password strength: weak, estimated time to crack : 3 hours.
+  
   Password: 12Computer34!!!!, length: 16 characters, character set: letters + numbers + special characters, password strength: good, estimated time to crack : 1 month.
+  
   Password: !!!!12.Com+Put+Er.34!!!!, length: 24 characters, character set: anything, password strength: strong, estimated time to crack : centuries.
+  
   Password: My-computer-is-great, character set: 4 words,  password strength: good, estimated time to crack : 8 years.
-
+  
 The password becomes safer with every additional character and by adding numbers and special characters.
 
 ## 3️⃣ Reflection and analysis
