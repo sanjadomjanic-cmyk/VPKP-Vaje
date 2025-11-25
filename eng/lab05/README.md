@@ -94,7 +94,7 @@ john --show hashes.txt
 
 - Record which passwords were found and how quickly.
 
-Very common passwords like password, abc123, letmein. querty123, Password1, were found very quickly, in couple of seconds (less than 5)
+Very common passwords like password, abc123, letmein. querty123, Password1, were found very quickly, in couple of seconds (less than 5).
   
 - Which strong password did the program not find? Why?
 
@@ -104,7 +104,7 @@ The program did not found passwords from our examples: My$Strong&Pass2024 nad Su
 
 - How does the security score increase as you increase the length?
 
-As the length increases the number of possible combinations grows exponentially.Longer passwords significantly raise the time required to brute-force them. 
+As the length increases the number of possible combinations grows exponentially. Longer passwords significantly raise the time required to brute-force them. 
   
 - How do special characters affect the score?
 
