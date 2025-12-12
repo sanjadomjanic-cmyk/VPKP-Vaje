@@ -37,11 +37,21 @@ Based on the results, write a short report (up to 1 page) where you answer:
 - What surprised you?
 - What will you change in your behavior?
 
+After completing the Personal Security Checklist on Digital Defense, I reviewed my digital security habits. I found authentication and messaging to be the safest areas, as I already use strong passwords, a password manager, two-factor authentication, and secure messaging apps. The biggest weaknesses were in web browsing, social media, and physical security, where I do not always pay enough attention to privacy settings and website permissions. I was surprised that many security risks come from everyday user behavior rather than technical issues, and that smart home devices can be a serious security risk. Based on this, I plan to improve my browser and social media privacy settings, and pay more attention to physical security, smart home devices, and public networks.
+
 ## 📝 Reflection
 
 - How important is awareness of digital exposure?
+
+  Digital exposure awareness is very important, as it helps individuals understand what personal information they are sharing, how it can be misused, and how to reduce security and privacy risks through informed behavior.
+  
 - Would you recommend this tool to anyone else (parents, friends, colleagues)?
+
+  Yes, I would recommend this tool to parents, friends, and colleagues because it clearly highlights everyday security risks and helps users improve their digital security with simple and practical instructions.
+  
 - How would you adapt this checklist for use in a school or business environment?
+
+  The checklist could be adapted by simplifying the rules, focusing on strong passwords, safe email use, secure devices, and regular updates, and using it as part of basic security training in a school or business    environment.
 
 ## 💡 Additional (optional)
 
