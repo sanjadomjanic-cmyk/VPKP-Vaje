@@ -51,7 +51,7 @@ After completing the Personal Security Checklist on Digital Defense, I reviewed 
   
 - How would you adapt this checklist for use in a school or business environment?
 
-  The checklist could be adapted by simplifying the rules, focusing on strong passwords, safe email use, secure devices, and regular updates, and using it as part of basic security training in a school or business    environment.
+   The checklist could be adapted by simplifying the rules, focusing on strong passwords, safe email use, secure devices, and regular updates, and using it as part of basic security training in a school or business       environment.
 
 ## 💡 Additional (optional)
 
