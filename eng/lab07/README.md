@@ -168,10 +168,22 @@ tcp.port == 587
 ## 5️⃣ Reflection
 
 - How would you explain the difference between an unencrypted (e.g. SMTP without TLS on port 1025) and an encrypted message (SMTP with STARTTLS on port 587)? What data can an attacker see in the first case and what in the second?
+
+With unencrypted SMTP (port 1025), an attacker can read the entire email. All communication is sent in cleartext. An attacker can see SMTP commands, sender and recipient addresses, email headers (subject) and the full email body.
+With SMTP using STARTTLS (port 587), the communication is protected by TLS encryption. The attacker sees only connection metadata (IP addresses, ports, and that a TLS connection is used), not the message itself, not even the headers.
+  
 - Why is fingerprinting in PGP to prevent man-in-the-middle attacks?
+
+  PGP fingerprinting prevents man-in-the-middle attacks by allowing users to verify that a public key truly belongs to the intended person and was not replaced by an attacker.
+  
 - When would you use PGP and when would you use Signal?
+  
+  PGP is used for secure email and files, while Signal is used for real-time encrypted messaging and calls.
+  
 - Do you think end-to-end encryption should be the default in all communication applications?
 Justify your answer from the perspective of security, privacy, and user experience.
+
+Yes, end-to-end encryption should be the default because it protects security and privacy while keeping the user experience simple by requiring no extra action from users.
 
 ---
 
