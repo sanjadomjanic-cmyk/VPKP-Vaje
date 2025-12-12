@@ -169,8 +169,8 @@ tcp.port == 587
 
 - How would you explain the difference between an unencrypted (e.g. SMTP without TLS on port 1025) and an encrypted message (SMTP with STARTTLS on port 587)? What data can an attacker see in the first case and what in the second?
 
-With unencrypted SMTP (port 1025), an attacker can read the entire email. All communication is sent in cleartext. An attacker can see SMTP commands, sender and recipient addresses, email headers (subject) and the full email body.
-With SMTP using STARTTLS (port 587), the communication is protected by TLS encryption. The attacker sees only connection metadata (IP addresses, ports, and that a TLS connection is used), not the message itself, not even the headers.
+  With unencrypted SMTP (port 1025), an attacker can read the entire email. All communication is sent in cleartext. An attacker can see SMTP commands, sender and recipient addresses, email headers (subject) and the full   email body.
+  With SMTP using STARTTLS (port 587), the communication is protected by TLS encryption. The attacker sees only connection metadata (IP addresses, ports, and that a TLS connection is used), not the message itself, not     even the headers.
   
 - Why is fingerprinting in PGP to prevent man-in-the-middle attacks?
 
