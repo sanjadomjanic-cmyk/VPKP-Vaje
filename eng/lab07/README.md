@@ -183,7 +183,7 @@ tcp.port == 587
 - Do you think end-to-end encryption should be the default in all communication applications?
 Justify your answer from the perspective of security, privacy, and user experience.
 
-Yes, end-to-end encryption should be the default because it protects security and privacy while keeping the user experience simple by requiring no extra action from users.
+ Yes, end-to-end encryption should be the default because it protects security and privacy while keeping the user experience simple by requiring no extra action from users.
 
 ---
 
